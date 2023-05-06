@@ -154,10 +154,12 @@ void loop()</br>
 }</br>
 
 ## CIRCUIT DIAGRAM:
+
 ![ssd](https://user-images.githubusercontent.com/132323363/235744394-8a7b6a0f-0c85-4ca9-b49a-5ec5831b3304.jpeg)
 
 
 ## OUTPUT:
+
 ![Picture](https://user-images.githubusercontent.com/132323363/235745068-a8f52caf-7f30-489c-adf4-00c614d05faa.png)
 
 
